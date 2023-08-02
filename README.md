@@ -1,4 +1,7 @@
 # Appscript_reverseProxy_Github_README
+## 簡介
+利用Google Appscript作為中繼，進行C&C的通訊通道
+目前不會被Windows Defender偵測
 ### APPscript版本
 #### Victim
 - ./appscript_client.ps1
